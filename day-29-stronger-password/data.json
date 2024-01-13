@@ -1,0 +1,19 @@
+{
+    "Amazon": {
+        "email": "angela@gmail.com",
+        "password": "o#%k7(y5dwEqIaT0"
+    },
+    "Gmail": {
+        "email": "dev.mail.testforsend@gmail.com",
+        "password": "B!+6vC82RVQ5zM&$",
+        "app_password": "okudfibpgqsfdjri"
+    },
+    "Discord": {
+        "email": "dev.mail.testforsend@gmail.com",
+        "password": "B!+6vC82RVQ5zM&$"
+    },
+    "pythonanywhere": {
+        "email": "dev.mail.testforsend@gmail.com",
+        "password": "2IY1fk$+9$NW6gBg"
+    }
+}
